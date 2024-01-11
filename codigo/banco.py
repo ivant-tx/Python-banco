@@ -1,0 +1,1 @@
+#Utilizando python aprimorar minhas habilidades com python e alguns pacotes
